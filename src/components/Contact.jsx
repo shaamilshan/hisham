@@ -5,7 +5,7 @@ import { IoCall } from "react-icons/io5";
 
 const Contact = () => {
   return (
-    <div id='contact' className='flex flex-col md:flex-row items-center justify-center px-4 py-12' style={{backgroundColor:'#F5FCFF'}}>
+    <div id='contact' className='flex flex-col md:flex-row items-center justify-center px-8 py-12' style={{backgroundColor:'#F5FCFF'}}>
       {/* Left Section: Image */}
       <div className='w-full md:w-1/3 mb-6 md:mb-0 flex justify-center md:justify-start'>
         <img 
